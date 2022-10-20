@@ -58,5 +58,3 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# Don't ignore these files
-!Library/EditorUserBuildSettings.asset
